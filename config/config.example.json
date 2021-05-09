@@ -4,20 +4,20 @@
     "secret": "" // Generate it from here: https://passwordsgenerator.net/?length=64&symbols=1&numbers=1&lowercase=1&uppercase=1&similar=1&ambiguous=1&client=1&autoselect=0
   },
   "bot": {
-    "token": "",
-    "botName": "Nightwatch",
-    "prefix": "n.",
-    "ownerId": "",
+    "token": "ODI1Njg0MzQxMzc1MzY5MjE2.YGBgdw.L1XCpuLWxvDiE6ycW02rFx75Fkg",
+    "botName": "Elite Bot",
+    "prefix": "e.",
+    "ownerId": "522728463413542925",
     "autoReconnect": true,
     "autoDeleteMessages": {
       "enabled": true,
       "delay": 15000
     },
     "playingStatus": {
-      "url": "https://twitch.tv/ihaxjoker",
+      "url": "https://discord.gg/Z7hyEjN4sT",
       "cycleIntervalMinutes": 60,
       "options": [
-        "n. help"
+        "e. help"
       ]
     },
     "clientId": "",
