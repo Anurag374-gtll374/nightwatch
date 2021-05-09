@@ -4,9 +4,9 @@
     "secret": "" // Generate it from here: https://passwordsgenerator.net/?length=64&symbols=1&numbers=1&lowercase=1&uppercase=1&similar=1&ambiguous=1&client=1&autoselect=0
   },
   "bot": {
-    "token": "",
+    "token": "ODI1Njg0MzQxMzc1MzY5MjE2.YGBgdw.YZmeJIClqBIOwd6x5w1de1kce_s",
     "botName": "Nightwatch",
-    "prefix": "n.",
+    "prefix": "e.",
     "ownerId": "",
     "autoReconnect": true,
     "autoDeleteMessages": {
@@ -14,18 +14,18 @@
       "delay": 15000
     },
     "playingStatus": {
-      "url": "https://twitch.tv/ihaxjoker",
+      "url": "https://discord.gg/Z7hyEjN4sT",
       "cycleIntervalMinutes": 60,
       "options": [
-        "n. help"
+        "e. help"
       ]
     },
-    "clientId": "",
-    "clientSecret": ""
+    "clientId": "825684341375369216",
+    "clientSecret": "HQgDwMQClVdGXCi1SbUUAz9wN5SrWZvp"
   },
   "optional": {
     "premium": {
-      "primaryGuildId": "",
+      "primaryGuildId": "687768410784006195",
       "premiumPatreonRoleId": "",
       "premiumPluginRepo": ""
     },
@@ -37,6 +37,6 @@
       "clientId": "",
       "clientSecret": ""
     },
-    "googleApiKey": ""
+    "googleApiKey": "AIzaSyDqEwQpKyskzBM8mMnRqw8FGq59vKwIme8"
   }
 }
